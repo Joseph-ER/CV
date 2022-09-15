@@ -24,7 +24,6 @@ _Tech Swing Audio & Video_
 - Running in and out of live show to fix or alter any sound or video equipment issues
 - Programming elements of sound and video design on mac using Qlab, Yamaha Mixers, Disguise and Dante
 
-- Any experience relevent to software development
 **NHS The Wolverton Centre** (September 2017 to June 2018)
 _Sexual Health Technician_
 
