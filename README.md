@@ -1,3 +1,5 @@
+< 	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>< 	https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white><https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>< 	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge><https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white>
+
 ## Joseph Edwards Rean
 
 Hi, I'm Joe! A new Software Developer from the Makers Academy Bootcamp. I absolutely love that my new life is problem solving through code!
@@ -69,7 +71,7 @@ Working in theatre I have become used to ignoring stress in order to fix the iss
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, DDD- Utilised mainly our final project Ratify, where we had 2 weeks to create anything we wanted, so working efficiently and relying no team members to work on other aspects seperately but
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
@@ -78,7 +80,7 @@ Working in theatre I have become used to ignoring stress in order to fix the iss
 
 - BA Drama and Theatre Arts
 - 1st Class Honours
-- I was an acgtive member of the Drama Society during my time at Goldsmiths, where I had a great time performing in the 
+- I was an active member of the Drama Society during my time at Goldsmiths, where I had a great time performing for 2 consecutive years in the Drunk Shakespeare productions of 'Rumeo and Giniet' and 'MacBev'd'
 
 #### Black Belt in Karate!
 
