@@ -9,7 +9,7 @@ Hi, I'm Joseph! Currently studying on the Makers Academy course. I absolutely lo
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Ratify**            | A mobile application that allows owners of exotic pets such as Rats to find out safe foods, local vets and upcming events! | React, Node, Express, MongoDB, React Native|
-| **Western Videogame Demo** | Proof of concept wild west game mechanics. | GDScript              |
+| **Western Videogame Demo** | Proof of concept wild west game mechanics. | GDScript, Blender             |
 
 ## Work Experience
 
