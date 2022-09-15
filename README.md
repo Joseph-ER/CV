@@ -36,7 +36,7 @@ _Sexual Health Technician_
 
 ## Skills
 
-### React Native
+### React Native- 2 Week project
 - For the final 2-week project at Makers Academy, me and my team decided to learn React Native from scratch
 - We used React Native for the front end of our application so we could create a great-looking app on IOS and Android
 - I had no prior experience with React or React Native, so this was quite a challenge! It was a lot more work to learn, as the syntax was different from CSS and HTML, so I found the initial learning curve of the new technology difficult
