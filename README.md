@@ -1,6 +1,6 @@
 ## Joseph Edwards Rean
 
-Hi, I'm Joseph! A new Software Developer from the Makers Academy Bootcamp. I absolutely love that my new life is problem solving through code!
+Hi, I'm Joe! A new Software Developer from the Makers Academy Bootcamp. I absolutely love that my new life is problem solving through code!
 What I really love about tech is how flexible it really is; for every single problem I've come across I've found multiple different ways to solve the issue in varying comlexities!
 
 ## Projects
@@ -35,19 +35,22 @@ _Sexual Health Technician_
 
 ## Skills
 
-### Learning React Native
-
-What was the skill?
-- Situation
-- how was it used?
-- action?
-- result
+### React Native
+- For the final 2 week project at Makers Academy, me and my team decided to learn React Native from scratch
+- We used React Native for the front end of our application so we could create a great looking app on IOS and Android
+- I had no prior experience with React or React Native, so this was quite a challenge! It was a lot more work to learn, as the syntax was different to CSS and HTML, so I found the initial learning curve of the new technology really difficult
+- To combat the difficulties, I dived deep into researching and understanding React and React Native limitations and good practice, React Native syntax as well as looking at code of existing projects to get a better understanding of how the code affects the visuals/fuctionality of the app, following guides from their website and reading the developer documentation for React Native
+- The hardest part for me was transferring data from the back end (web scraper API and HTML parsing functions) into the front end in a way that was displayed appropriately. I found this hard, as it was quite different fro how this would be achieved in HTML.
+- After lots of hard work, he end result is a really nicely functioning and good looking app prototype that was responsive, clear and concise! I'm realy proud of it for a 2 week project!
 
 #### Excellent time management
 
 Having worked in theatre for the past year, I am very used to working with and managing time pressures. I am used to managing expectations and scope of projects in the rehearsal/development phase, as well as setting up and dealing with last minute issues close to a performance time/deadline.
 
-- I successfully developed, designed and performed an expanded scope performance of my final University year's performance in a Fringe theatre feestival. To do this, I took on roles of deisnging the lighting, sound and video for the performance, performing and operating sound and video in the final piece as well as teaching someone how to operate the lighting for the performance. This meant that the scope of any technical aspects of the performance were my responsibility. This meant I taught myself any software and hardware I was not familiar with, such as lighting desk Jester, as well as limiting the scope of the performance so that we did not promise more than we could deliver. This meant holding off on technological aspects such as an interactive video call projection as it brought on more complications too soon to the first performance to be ironed out completely, as well as adding additional elements where possible in orderto enhance the show. One example being a full video projection of the live action on stage.
+- I successfully developed, designed and performed an expanded scope performance of my final University year's performance in a Fringe theatre feestival.
+- To do this, I took on roles of deisnging the lighting, sound and video for the performance, performing and operating sound and video in the final piece as well as teaching someone how to operate the lighting for the performance.
+- This meant that the scope of any technical aspects of the performance were my responsibility. This meant I taught myself any software and hardware I was not familiar with, such as lighting desk Jester, as well as limiting the scope of the performance so that we did not promise more than we could deliver.
+- This meant holding off on technological aspects such as an interactive video call projection as it brought on more complications too soon to the first performance to be ironed out completely, as well as adding additional elements where possible in orderto enhance the show. One example being a full video projection of the live action on stage.
 
 
 #### Stressful situations
