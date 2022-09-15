@@ -8,7 +8,7 @@ Hi, I'm Joseph! Currently studying on the Makers Academy course. I absolutely lo
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Ratify**            | A mobile application that allows owners of exotic pets such as Rats to find out safe foods, local vets and upcming events! | React, Node, Express, MongoDB, React Native|
 | **Western Videogame Demo** | Proof of concept wild west game mechanics. | GDScript              |
 
 ## Work Experience
@@ -24,10 +24,16 @@ _Tech Swing Audio & Video_
 - Running in and out of live show to fix or alter any sound or video equipment issues
 - Programming elements of sound and video design on mac using Qlab, Yamaha Mixers, Disguise and Dante
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
 - Any experience relevent to software development
+**NHS The Wolverton Centre** (September 2017 to June 2018)
+_Sexual Health Technician_
+
+- Client facing role, offering support to patients and clinicians
+- Trained in and performed phlebotomy daily
+- Trained in microscopy for Sexually Transmitted Infections as lead diagnosis support for Clinicians.
+- Being at the patient's side for invasive and uncomfortable procedures, assisting clinician and emotionally supporting patients
+- Offering confidentiality and a friendly face for patients in a scary environment
+- Maintaining composure and efficiency in a time sensitive and patient supportive mannor
 
 ## Skills
 
