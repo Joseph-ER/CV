@@ -66,7 +66,7 @@ Working in theatre I have become used to ignoring stress to fix the issue as qui
 
 ## Education 🏫
 
-#### Makers Academy (May 2022 to September 2022)
+#### Makers Academy (May 2022 to September 2022) :makers:
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -75,13 +75,13 @@ Working in theatre I have become used to ignoring stress to fix the issue as qui
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Goldsmiths University of London (September 2018 to July 2021)
+#### Goldsmiths University of London (September 2018 to July 2021) 🎭
 
-- BA Drama and Theatre Arts
+- BA Drama and Theatre Arts 
 - 1st Class Honours
 - I was an active member of the Drama Society during my time at Goldsmiths, where I had a great time performing for 2 consecutive years in the Drunk Shakespeare productions of 'Rumeo and Giniet' and 'MacBev'd'
 
-#### Black Belt in Karate!
+#### Black Belt in Karate! 🥋
 
 Although this doesn't help me in coding as I can't roundhouse kick the error messages away, it does show my commitment, dedication, and respect. I loved being involved in my Karate club and respect was one of the main pillars of Martial Art which has stuck with me ever since.
 
