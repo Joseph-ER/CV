@@ -1,19 +1,19 @@
 <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src ="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"><img src ="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
 
-## Joseph Edwards Rean
+## Joseph Edwards Rean 🎮🖌
 Hi, I'm Joe! A new Software Developer from the Makers Academy Bootcamp. I love that my new life is problem-solving through code!
 What I love about tech is how flexible it is; for every single problem I've come across I've found multiple different ways to solve the issue in varying complexities!
 
-## Projects
+## Projects 💻💾
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Ratify**            | A mobile application that allows owners of exotic pets such as Rats to find out safe foods, local vets, and upcoming animal events! | React, Node, Express, MongoDB, React Native|
 | **Western Videogame Demo** | Proof of concept wild west game mechanics. | GDScript, Blender             |
 
-## Work Experience
+## Work Experience 📜
 
-**Immersive Everywhere- Doctor Who Time Fracture** (October 2021 to April 2022)  
+**Immersive Everywhere- Doctor Who Time Fracture** (October 2021 to April 2022) 🛸🛰
 _Tech Swing Audio & Video_
 
 - take on the roles of "Head of Sound" and "Head of Video" for 2 - 3 shows per week and to cover staff absence
@@ -24,7 +24,7 @@ _Tech Swing Audio & Video_
 - Running in and out of live show to fix or alter any sound or video equipment issues
 - Programming elements of sound and video design on mac using Qlab, Yamaha Mixers, Disguise, and Dante
 
-**NHS The Wolverton Centre** (September 2017 to June 2018)
+**NHS The Wolverton Centre** (September 2017 to June 2018) 💉🩺
 _Sexual Health Technician_
 
 - Client-facing role, offering support to patients and clinicians
@@ -36,7 +36,7 @@ _Sexual Health Technician_
 
 ## Skills
 
-### React Native- 2 Week project
+### React Native- 2 Week project ⏳
 - For the final 2-week project at Makers Academy, me and my team decided to learn React Native from scratch
 - We used React Native for the front end of our application so we could create a great-looking app on IOS and Android
 - I had no prior experience with React or React Native, so this was quite a challenge! It was a lot more work to learn, as the syntax was different from CSS and HTML, so I found the initial learning curve of the new technology difficult
@@ -44,7 +44,7 @@ _Sexual Health Technician_
 - The hardest part for me was transferring data from the back end (web scraper API and HTML parsing functions) into the front end in a way that was displayed appropriately. I found this hard, as it was quite different from how this would be achieved in HTML.
 - After lots of hard work, the result is a nicely functioning and good-looking app prototype that was responsive, clear, and concise! I'm proud of it for a 2-week project!
 
-#### Excellent time management
+#### Excellent time management ⌚
 
 Having worked in theatre for the past year, I am very used to working with and managing time pressures. I am used to managing expectations and the scope of projects in the rehearsal/development phase, as well as setting up and dealing with last-minute issues close to a performance time/deadline.
 
@@ -54,7 +54,7 @@ Having worked in theatre for the past year, I am very used to working with and m
 - This meant holding off on technological aspects such as an interactive video call projection as it brought on more complications too soon to the first performance to be ironed out completely, as well as adding additional elements where possible to enhance the show. One example is a full video projection of the live action on stage.
 
 
-#### Stressful situations
+#### Stressful situations 😎
 
 Working in theatre I have become used to ignoring stress to fix the issue as quickly as possible, without breaking the show and world for the audience or causing issues for any of the other tech staff or performers.
 
@@ -64,7 +64,7 @@ Working in theatre I have become used to ignoring stress to fix the issue as qui
 - A link to some online evidence (blogs, videos, articles, etc.)
 
 
-## Education
+## Education 🏫
 
 #### Makers Academy (May 2022 to September 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
@@ -85,9 +85,9 @@ Working in theatre I have become used to ignoring stress to fix the issue as qui
 
 Although this doesn't help me in coding as I can't roundhouse kick the error messages away, it does show my commitment, dedication, and respect. I loved being involved in my Karate club and respect was one of the main pillars of Martial Art which has stuck with me ever since.
 
-## Hobbies
+## Hobbies 🎮🖌
 
 I love geeking out about games, and technology! I love to hear other people's excitement about the world of gaming and technology and share my interests! I also enjoy relaxing by playing guitar and have recently started painting and playing with Warhammer 40,000 miniatures!
 
-I also currently own 4 pet rats 🐀🐀🐀🐀
+I also currently own 4 pet rats! 🐀🐀🐀🐀
 
