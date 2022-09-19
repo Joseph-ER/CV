@@ -89,3 +89,5 @@ Although this doesn't help me in coding as I can't roundhouse kick the error mes
 
 I love geeking out about games, and technology! I love to hear other people's excitement about the world of gaming and technology and share my interests! I also enjoy relaxing by playing guitar and have recently started painting and playing with Warhammer 40,000 miniatures!
 
+I also currently own 4 pet rats 🐀🐀🐀🐀
+
