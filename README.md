@@ -68,13 +68,15 @@ Working in theatre I have become used to ignoring stress to fix the issue as qui
 
 #### Makers Academy (May 2022 to September 2022) 🎓
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD- Utilised mainly our final project Ratify, where we had 2 weeks to create anything we wanted, so working efficiently and relying no team members to work on other aspects seperately but
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Learnt solid Test Driven Development principles in both Ruby and Javascript with RSpec and Jest respectively
+- OOP, TDD, MVC, DDD- Utilised mainly our final project Ratify
+- Improved my self lead learning, especially in the final project (React Native 2 week section above)
+- Build excellent teamworking foundations using Agile workplace practices including: sprints, standups and retros
+- Great Github technique- commit often!
+- Introduction to complex topics such as Async, which I have further explored in Ratify, my final project
+- Web dev weeks covered HTML, HBS, CSS for front end design
+- Database weeks included PostgreSQL and Postman, which I furtherd in all 3 projects to explore MongoDB individually
+- 3 different time constrained team working projects allowed me to become comfortable with Express and understand principles involved in full-stack development
 
 #### Goldsmiths University of London (September 2018 to July 2021) 🎭
 
