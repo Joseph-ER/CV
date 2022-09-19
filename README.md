@@ -13,8 +13,8 @@ What I love about tech is how flexible it is; for every single problem I've come
 
 ## Work Experience 📜
 
-**Immersive Everywhere- Doctor Who Time Fracture** (October 2021 to April 2022) 🛸🛰
-_Tech Swing Audio & Video_
+**Immersive Everywhere- Doctor Who Time Fracture** (October 2021 to April 2022)
+_Tech Swing Audio & Video_ 🛸🛰
 
 - take on the roles of "Head of Sound" and "Head of Video" for 2 - 3 shows per week and to cover staff absence
 - Powering on all video and audio equipment in the venue
@@ -24,8 +24,8 @@ _Tech Swing Audio & Video_
 - Running in and out of live show to fix or alter any sound or video equipment issues
 - Programming elements of sound and video design on mac using Qlab, Yamaha Mixers, Disguise, and Dante
 
-**NHS The Wolverton Centre** (September 2017 to June 2018) 💉🩺
-_Sexual Health Technician_
+**NHS The Wolverton Centre** (September 2017 to June 2018)
+_Sexual Health Technician_ 💉🩺
 
 - Client-facing role, offering support to patients and clinicians
 - Trained in and performed phlebotomy daily
