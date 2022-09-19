@@ -66,7 +66,8 @@ Working in theatre I have become used to ignoring stress to fix the issue as qui
 
 ## Education 🏫
 
-#### Makers Academy (May 2022 to September 2022) :makers:
+#### Makers Academy (May 2022 to September 2022) 🎓
+
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
