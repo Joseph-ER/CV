@@ -70,13 +70,13 @@ Working in theatre I have become used to ignoring stress to fix the issue as qui
 
 - Learnt solid Test Driven Development principles in both Ruby and Javascript with RSpec and Jest respectively
 - OOP, TDD, MVC, DDD- Utilised mainly our final project Ratify
-- Improved my self lead learning, especially in the final project (React Native 2 week section above)
-- Build excellent teamworking foundations using Agile workplace practices including: sprints, standups and retros
+- Improved my self-lead learning, especially in the final project (React Native 2 week section above)
+- Build excellent teamworking foundations using Agile workplace practices including sprints, standups, and retros
 - Great Github technique- commit often!
 - Introduction to complex topics such as Async, which I have further explored in Ratify, my final project
-- Web dev weeks covered HTML, HBS, CSS for front end design
-- Database weeks included PostgreSQL and Postman, which I furtherd in all 3 projects to explore MongoDB individually
-- 3 different time constrained team working projects allowed me to become comfortable with Express and understand principles involved in full-stack development
+- Web dev weeks covered HTML, HBS, and CSS for the front end design of projects
+- Database weeks included PostgreSQL and Postman, which I further in all 3 projects to explore MongoDB individually
+- 3 different time constrained team working projects allowed me to become comfortable with Express and understand the principles involved in full-stack development
 
 #### Goldsmiths University of London (September 2018 to July 2021) 🎭
 
