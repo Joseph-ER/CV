@@ -8,7 +8,7 @@ What I love about tech is how flexible it is; for every single problem I've come
 
 | Name                         | Description       | Tech/tools        | Link |
 | ---------------------------- | ----------------- | ----------------- | ----------------|
-| **Ratify**            | A mobile application that allows owners of exotic pets such as Rats to find out safe foods, local vets, and upcoming animal events!| https://github.com/Joseph-ER/ratify | React, Node, Express, MongoDB, React Native|
+| **Ratify**            | A mobile application that allows owners of exotic pets such as Rats to find out safe foods, local vets, and upcoming animal events!|  React, Node, Express, MongoDB, React Native | https://github.com/Joseph-ER/ratify |
 | **Western Videogame Demo** | Proof of concept wild west game mechanics. | GDScript, Blender             | https://github.com/Joseph-ER/WIP-Western-Game--scripts|
 
 ## Work Experience 📜
