@@ -54,14 +54,13 @@ Having worked in theatre for the past year, I am very used to working with and m
 - This meant holding off on technological aspects such as an interactive video call projection as it brought on more complications too soon to the first performance to be ironed out completely, as well as adding additional elements where possible to enhance the show. One example is a full video projection of the live action on stage.
 
 
-#### Stressful situations 😎
+#### Working Well Under Pressure 😎
 
 Working in theatre I have become used to ignoring stress to fix the issue as quickly as possible, without breaking the show and world for the audience or causing issues for any of the other tech staff or performers.
 
 - One morning on the set of "Doctor Who: Time Fracture" as acting Head of Sound, after turning on the equipment throughout the site, an error arose. The issue was that communication had not been established between all the different speakers and projectors throughout the building.
 - Firstly I assessed the errors occurring to make sense of the issue, and after I had tested a few ideas to fix the problems it was getting too close to the start of the performance, so I made the decision I needed to inform higher members of staff to get a solution and to inform them the show may be affected.
 - I alerted the Stage Manager so she could prepare explanations for the audience and fellow staff if necessary. I then contacted the Production Sound Installer and informed him of the issue and how I had attempted to solve the issue.
-- A link to some online evidence (blogs, videos, articles, etc.)
 
 
 ## Education 🏫
