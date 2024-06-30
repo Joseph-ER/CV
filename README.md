@@ -1,8 +1,8 @@
 <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src ="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"><img src ="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
 
 ## Joseph Edwards Rean 🎮🖌
-Hi, I'm Joe! A new Software Developer from the Makers Academy Bootcamp. I love that my new life is problem-solving through code!
-What I love about tech is how flexible it is; for every single problem I've come across I've found multiple different ways to solve the issue in varying complexities!
+Hi, I'm Joe! A Full stack software developer at Dentally. I am a career changer from Theatre and I love that my new life is problem-solving through code!
+What I love about tech is how flexible it is; for every single problem I've come across there are multiple different ways to solve the issue in varying complexities!
 
 ## Projects 💻💾
 
