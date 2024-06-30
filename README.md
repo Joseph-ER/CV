@@ -13,6 +13,24 @@ What I love about tech is how flexible it is; for every single problem I've come
 
 ## Work Experience 📜
 
+## Developer, Dentally, 2022 – present
+## Responsibilities:
+- Bug Triaging: Identify and assign bugs to the appropriate feature team, detailing the issue and its origin in the code base.
+- Support Assistance: Aid Support teams in app usage, especially in the absence of internal documentation.
+- Data Manipulation: Correct invalid data using GitHub-reviewed Ruby scripts.
+- Internal Tool Development: Build tools to enhance Support staff efficiency in handling common customer requests.
+- Operational Improvements: Develop internal tools to assist various departments, such as Finance, in improving their reporting accuracy.
+- Issue Investigation: Use Ruby on Rails Active Record daily to investigate customer issues not solvable via the UI.
+- Testing: Implement RSpec testing for backend code and Ember Qunit tests for frontend code to ensure robustness and reliability.
+## Documentation and Knowledge Sharing:
+- Created comprehensive documentation on company Slite and GitHub readme’s.
+- Delivered a talk in a monthly engineering forum to share knowledge and prevent tacit/siloed information.
+## Team Integration and Mentorship:
+- Spend 2 days per week embedded with feature teams to understand their workflows, environments, and engage in detailed investigations alongside more experienced developers.
+- Known throughout the company for reaching out to experienced members to gain new knowledge, and now being a go-to person for both new and experienced engineers regarding app knowledge in unfamiliar areas.
+- Assisted in onboarding 4 new Junior Dev Support Engineers through shadowing, pair programming, and communicating with the team lead about their progress and challenges.
+
+
 **Immersive Everywhere- Doctor Who Time Fracture** (October 2021 to April 2022)
 _Tech Swing Audio & Video_ 🛸🛰
 
